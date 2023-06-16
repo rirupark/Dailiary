@@ -72,7 +72,7 @@ struct SignUpEmailView: View {
             VStack(spacing: 40) {
                 VStack(alignment: .leading, spacing: 5) {
                     HStack {
-                        TextField("이메일 (예: test@gmail.com)", text: $email)
+                        TextField("이메일을 입력해주세요.", text: $email)
                         .focused($isInFocusEmail)
                         .modifier(ClearTextFieldModifier())
                         .onChange(of: email) { newValue in

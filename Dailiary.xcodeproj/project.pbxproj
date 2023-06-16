@@ -7,11 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		673760C42A3C5F7C008D8AA5 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 673760C32A3C5F7C008D8AA5 /* GoogleService-Info.plist */; };
 		673B2CC72970359E006B19F2 /* SearchAddressView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 673B2CC62970359E006B19F2 /* SearchAddressView.swift */; };
 		673B2CC9297037BA006B19F2 /* LocationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 673B2CC8297037BA006B19F2 /* LocationManager.swift */; };
 		673B2CCB297050C9006B19F2 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 673B2CCA297050C9006B19F2 /* MapView.swift */; };
 		675ED110296E4AE700BDA873 /* DetailDiaryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 675ED10F296E4AE700BDA873 /* DetailDiaryView.swift */; };
-		675ED112296E72C200BDA873 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 675ED111296E72C200BDA873 /* GoogleService-Info.plist */; };
 		67B9D3D5296CEBAF006333A5 /* DailiaryApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67B9D3D4296CEBAF006333A5 /* DailiaryApp.swift */; };
 		67B9D3D7296CEBAF006333A5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67B9D3D6296CEBAF006333A5 /* ContentView.swift */; };
 		67B9D3D9296CEBB1006333A5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 67B9D3D8296CEBB1006333A5 /* Assets.xcassets */; };
@@ -38,11 +38,11 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		673760C32A3C5F7C008D8AA5 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		673B2CC62970359E006B19F2 /* SearchAddressView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchAddressView.swift; sourceTree = "<group>"; };
 		673B2CC8297037BA006B19F2 /* LocationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationManager.swift; sourceTree = "<group>"; };
 		673B2CCA297050C9006B19F2 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 		675ED10F296E4AE700BDA873 /* DetailDiaryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailDiaryView.swift; sourceTree = "<group>"; };
-		675ED111296E72C200BDA873 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
 		67B9D3D1296CEBAF006333A5 /* Dailiary.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Dailiary.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		67B9D3D4296CEBAF006333A5 /* DailiaryApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailiaryApp.swift; sourceTree = "<group>"; };
 		67B9D3D6296CEBAF006333A5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -108,7 +108,7 @@
 		67B9D3D3296CEBAF006333A5 /* Dailiary */ = {
 			isa = PBXGroup;
 			children = (
-				675ED111296E72C200BDA873 /* GoogleService-Info.plist */,
+				673760C32A3C5F7C008D8AA5 /* GoogleService-Info.plist */,
 				67B9D401296CFDD7006333A5 /* Modifier */,
 				67B9D3D4296CEBAF006333A5 /* DailiaryApp.swift */,
 				67B9D3D6296CEBAF006333A5 /* ContentView.swift */,
@@ -269,7 +269,7 @@
 			files = (
 				67B9D3DC296CEBB1006333A5 /* Preview Assets.xcassets in Resources */,
 				67B9D3D9296CEBB1006333A5 /* Assets.xcassets in Resources */,
-				675ED112296E72C200BDA873 /* GoogleService-Info.plist in Resources */,
+				673760C42A3C5F7C008D8AA5 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
