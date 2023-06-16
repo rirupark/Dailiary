@@ -33,6 +33,7 @@ struct HomeView: View {
                         } // NavigationLink
                     }
                 } // ForEach
+                .onDelete(perform: removeDiary)
             }
             .listStyle(.plain)
             .navigationTitle("📓 Dailiary")
@@ -56,6 +57,16 @@ struct HomeView: View {
             }
         } // naviagationStack
     } // body
+    
+    // MARK: - onDelete perform function
+    func removeDiary(at offsets: IndexSet) {
+        // Delete from firestore
+        for index in offsets {
+            diaryViewModel.removeDiary(diary: diaryViewModel.diaryInfos[index])
+        }
+        // Delete from list
+        diaryViewModel.diaryInfos.remove(atOffsets: offsets)
+    }
 }
 
 struct DiaryView: View {
