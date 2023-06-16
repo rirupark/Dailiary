@@ -93,6 +93,6 @@
 |:-:|:-:|:-:|
 |<img src="https://github.com/rirupark/Dailiary/assets/82339184/4984eda1-b86d-4ee9-801d-ce8a92245a0a" width="100%">|<img src="https://github.com/rirupark/Dailiary/assets/82339184/9b27af34-ee31-462d-807c-b74641cb46ab">|<img src="https://github.com/rirupark/Dailiary/assets/82339184/a856ba7d-394f-40fb-8242-dff1de305e3e" width="100%">|
 
-|위치 검색|위치 추가|다이어리 작성 완료|
+|위치 검색|위치 추가|작성한 다이어리 확인|
 |:-:|:-:|:-:|
-|<img src="https://github.com/rirupark/Dailiary/assets/82339184/c6ab81fe-f7d2-4f1b-98ae-7a73e34c52d0" width="100%">|<img src="https://github.com/rirupark/Dailiary/assets/82339184/cbb36a4f-fc1c-4311-beff-3dcd4cad9b81" width="100%">|<img src="https://github.com/rirupark/Dailiary/assets/82339184/fb6bbbad-3349-4299-b44f-85405af7dec0">|
+|<img src="https://github.com/rirupark/Dailiary/assets/82339184/c6ab81fe-f7d2-4f1b-98ae-7a73e34c52d0" width="100%">|<img src="https://github.com/rirupark/Dailiary/assets/82339184/cbb36a4f-fc1c-4311-beff-3dcd4cad9b81" width="100%">|<img src="https://github.com/rirupark/Dailiary/assets/82339184/f042219c-466a-4b38-afd5-61703b80a2ff">|
