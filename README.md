@@ -63,13 +63,13 @@
  ┃ ┃ ┗ 📜 SearchAddressView.swift
  ┃ ┃
  ┃ ┗ 📂 Mypage
- ┃ ┃ ┗ 📜 MypageView.swift
- ┃ ┃
+ ┃   ┗ 📜 MypageView.swift
+ ┃
  ┣ 📂 ViewModel
  ┃ ┣ 📜 AuthViewModel.swift
  ┃ ┣ 📜 DiaryViewModel.swift
  ┃ ┗ 📜 LocationManager.swift
- ┃ ┃
+ ┃ 
  ┣ 📂 Preview Content
  ┃ ┗ 📂 Preview Assets.xcassets
  ┃   ┗ 📜 Contents.json
