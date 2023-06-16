@@ -70,13 +70,7 @@ struct MapView: View {
                         showingMapSheet = false
                     } label: {
                         Text("이 위치로 설정하기")
-                            .frame(maxWidth: .infinity)
-                            .padding(.vertical, 12)
-                            .background {
-                                RoundedRectangle(cornerRadius: 10 ,style: .continuous)
-                                    .fill(Color.accentColor)
-                            }
-                            .foregroundColor(.white)
+                            .modifier(MaxWidthColoredButtonModifier(cornerRadius: 15))
                     } // Button
                 } // VStack
                 .padding()
